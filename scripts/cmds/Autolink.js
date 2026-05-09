@@ -66,7 +66,7 @@ module.exports = {
                 await api.sendMessage(
                     {
                         body:
-`📥 ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ  
+`📥 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐀𝐒𝐑𝐀𝐅𝐔𝐋 𝐈𝐒𝐋𝐀𝐌 𝐒𝐀𝐊𝐈𝐁  
 ━━━━━━━━━━━━━━━  
 🎬 ᴛɪᴛʟᴇ: ${title || "Video File"}  
 📦 sɪᴢᴇ: ${fileSizeInMB.toFixed(2)} MB  
